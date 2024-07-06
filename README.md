@@ -28,7 +28,7 @@ A line follower robot is a type of autonomous robot that can follow a path or tr
 
 ## 🛠️ Components Required
 
-- **Microcontroller**: Arduino Uno or similar
+- **Microcontroller**: Arduino Nano or similar
 - **Motor Driver**: L298N or similar
 - **DC Motors**: 2 units
 - **Chassis**: With wheels
@@ -71,9 +71,6 @@ Check out this [video demo](path_to_demo_video) to see the Line Follower Robot i
 
 Contributions are welcome! If you have any ideas or improvements, please fork this repository, make your changes, and submit a pull request. Make sure to follow the coding guidelines.
 
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 📧 Contact
 
